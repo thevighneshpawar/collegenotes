@@ -1,5 +1,8 @@
 
 /* first page style */
+a{
+  color: rgb(0, 0, 0);
+}
 
 .header h2
 {
@@ -34,8 +37,6 @@
 #button1 a
 {
   text-decoration: none;
-  color: blue;
-
 }
 .text a
 {
@@ -53,7 +54,6 @@
 .card-body button a
 {
   text-decoration: none;
-  color: blue;
 }
 
 .page {
