@@ -54,14 +54,14 @@
 #button1 a
 {
   text-decoration: none;
-  color: blue;
+  color: rgb(7, 7, 7);
 
 }
 
 .card-body button a
 {
   text-decoration: none;
-  color: blue;
+  color: rgb(0, 0, 0);
 }
 .drop-down
 {
